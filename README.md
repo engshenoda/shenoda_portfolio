@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shenoda</h1>
 <h3 align="center">I am junior flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engahenoda&label=Profile%20views&color=0e75b6&style=flat" alt="engahenoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engshenoda&label=Profile%20views&color=0e75b6&style=flat" alt="engahenoda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engahenoda" alt="engahenoda" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Flutter*
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1bPdUfrHoCGYZaWuRHkfHYAJwo4OpJcvr/view?usp=drivesdk](https://drive.google.com/file/d/1bPdUfrHoCGYZaWuRHkfHYAJwo4OpJcvr/view?usp=drivesdk)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/engshenoda?tab=repositories)
 
 - 📫 How to reach me *engshenoda2020@gmail.com*
 
